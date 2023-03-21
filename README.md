@@ -4,7 +4,7 @@ Born in July 1991, Physiotherapist for 7 years, then discovered WebDev for me.
 
 I like challenges and being challenged. Change is welcome!
 
-Hobbys:
+### Hobbys:
 
 
 <div display="inline-grid" grid-template-columns="1fr 1fr">
